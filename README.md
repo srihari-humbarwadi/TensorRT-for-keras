@@ -11,3 +11,4 @@
 ## Results
 - Results available for a densnet model trained on a custom dataset
 - Inference not done in batch mode
+![Alt Text](https://github.com/srihari-humbarwadi/TensorRT-for-keras/blob/master/results_densenet.jpeg)
