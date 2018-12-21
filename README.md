@@ -1,6 +1,6 @@
 # TensorRT for keras
 ## Step to run
- - Convert your model files (h5) into a frozen graph using the freeze garph code
+ - Convert your model files (h5) into a frozen graph using the freeze graph code
  - Run the optimize script to get a new graph with tensorrt operations 
  
 ## Steps to setup Tensorflow with TensorRT support (Ubuntu 16.04 LTS)
